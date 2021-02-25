@@ -4,7 +4,6 @@ import { View, Text, TouchableOpacity } from 'react-native';
 import { createStackNavigator } from 'react-navigation-stack';
 
 
-alert('testram')
 class Screen1 extends React.Component {
     render() {
       return (
